@@ -1,0 +1,17 @@
+Art/Back/MonkeyBackIdle.png*B0
+Art/Back/MonkeyBackStepLeft.png*B1
+Art/Back/MonkeyBackStepRight.png*B2
+Art/Front/MonkeyFrontIdle.png*FR0
+Art/Front/MonkeyFrontLeftStep.png*FR1
+Art/Front/MonkeyFrontRightStep.png*FR2
+Art/Left/MonkeyIdleLeft.png*L0
+Art/Left/MonkeyLeftBackFoot.png*L1
+Art/Left/MonkeyLeftFrontFoot.png*L2
+Art/Right/MonkeyIdleRight.png*R0
+Art/Right/MonkeyRightBackFoot.png*R1
+Art/Right/MonkeyRightFrontFoot.png*R2
+Art/grass.png*Grass
+Art/banana.png*Banana
+Art/tree.png*Tree
+Art/treeWalls.png*TreeWalls
+Art/treeRoof.png*TreeRoof

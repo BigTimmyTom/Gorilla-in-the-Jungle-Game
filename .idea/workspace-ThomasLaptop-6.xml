@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c730046d-e4b9-44b9-a13f-b204b41983ed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="32I3fkztnDSKG9QTmHd9Xk798DT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thoma/OneDrive/Documents/IdeaProjects/Sandbox&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\OneDrive\Documents\IdeaProjects\CSC130 Final\Art" />
+      <recent name="C:\Users\thoma\IdeaProjects\CSC130 Final" />
+      <recent name="C:\Users\thoma\IdeaProjects\CSC130 Final\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c730046d-e4b9-44b9-a13f-b204b41983ed" name="Changes" comment="" />
+      <created>1757094365073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757094365073</updated>
+      <workItem from="1757094366244" duration="323000" />
+      <workItem from="1757271463005" duration="46000" />
+      <workItem from="1757354725374" duration="40000" />
+      <workItem from="1757355548130" duration="32000" />
+      <workItem from="1757355870599" duration="465000" />
+      <workItem from="1757356352749" duration="993000" />
+      <workItem from="1757571387184" duration="1801000" />
+      <workItem from="1757573304074" duration="189000" />
+      <workItem from="1757573560268" duration="146000" />
+      <workItem from="1757621328964" duration="387000" />
+      <workItem from="1757621734055" duration="223000" />
+      <workItem from="1757621965796" duration="25000" />
+      <workItem from="1757622064454" duration="29000" />
+      <workItem from="1757622167946" duration="3000" />
+      <workItem from="1757633604903" duration="439000" />
+      <workItem from="1757660067989" duration="164000" />
+      <workItem from="1757700943126" duration="20000" />
+      <workItem from="1758133951838" duration="833000" />
+      <workItem from="1758304248943" duration="270000" />
+      <workItem from="1758566784733" duration="5703000" />
+      <workItem from="1758677689182" duration="8707000" />
+      <workItem from="1758693545166" duration="617000" />
+      <workItem from="1758736694802" duration="4685000" />
+      <workItem from="1758755183421" duration="800000" />
+      <workItem from="1758772134114" duration="739000" />
+      <workItem from="1758916579941" duration="606000" />
+      <workItem from="1759168924143" duration="105000" />
+      <workItem from="1759341421153" duration="184000" />
+      <workItem from="1759352136785" duration="343000" />
+      <workItem from="1759514386993" duration="10000" />
+      <workItem from="1759518931121" duration="1977000" />
+      <workItem from="1759772069719" duration="841000" />
+      <workItem from="1759806414410" duration="956000" />
+      <workItem from="1759814632861" duration="149000" />
+      <workItem from="1760120615695" duration="14000" />
+      <workItem from="1760381447549" duration="1399000" />
+      <workItem from="1760547282613" duration="35000" />
+      <workItem from="1760939256214" duration="3844000" />
+      <workItem from="1760996409449" duration="2108000" />
+      <workItem from="1761026582087" duration="3132000" />
+      <workItem from="1761081546513" duration="72000" />
+      <workItem from="1761082274596" duration="13000" />
+      <workItem from="1761156062930" duration="156000" />
+      <workItem from="1761757492078" duration="4276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
