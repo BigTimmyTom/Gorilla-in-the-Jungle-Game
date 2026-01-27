@@ -2,7 +2,8 @@
 ### An unfinished project created using Java
 This project was created as a final project for my Data Structures and Algorithms class and met the standards of the assignment.
 However, it is an unfinished project as I would like to add true gameplay, although can be run in a stable condition in its current state.
-
+### Gameplay
+![Gameplay Loop showing Gorilla interacting with banana and tree](https://github.com/thomasjwhitcomb/Gorilla-in-the-Jungle-Game/blob/master/Gameplay.gif)
 ### Gameplay Description
 A gorilla, named DK, can be moved around the screen and interact with the
 banana and tree game objects, resulting in a short line of dialogue to be
